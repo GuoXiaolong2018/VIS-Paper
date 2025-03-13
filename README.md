@@ -1,2 +1,2 @@
-# VIS-Paper
-Record the vis papers that i have read
+# MLLM-Paper
+Record the MLLM papers that i have read
